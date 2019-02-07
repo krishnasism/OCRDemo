@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204007370866",
+    "firebase_url": "https://ocrdemo-43e14.firebaseio.com",
+    "project_id": "ocrdemo-43e14",
+    "storage_bucket": "ocrdemo-43e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204007370866:android:5d5a97f0da4530c4",
+        "android_client_info": {
+          "package_name": "com.example.ocrdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204007370866-tpcfggiin7ot9irj29pm1fdef30uoigr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCwXMuSXEiXESjkMVRTZP_VMsI9n_kRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
